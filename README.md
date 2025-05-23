@@ -500,6 +500,27 @@ Common HTTP status codes:
 4. Push to branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📄 License
+## 📸 Screenshots
 
-This project is licensed under the MIT License.
+### Auth
+
+![User Registration](./screenshots/Auth/SignUp.png)
+![User Login](./screenshots/Auth/Login.png)
+
+### Book
+
+![Add Book](./screenshots/Books/AddaBook.png)
+![Book by Id](./screenshots/Books/AddaBook.png)
+![Get all Books](./screenshots/Books/GetAllBooks.png)
+
+
+### Review
+
+![Add Review](./screenshots/Review/AddaReview.png)
+![Update Review](./screenshots/Review/UpdateReview.png)
+![Delete Review](./screenshots/Review/DeleteReview.png)
+
+
+### Search Books
+
+![Search Books](./screenshots/Search/Search.png)
